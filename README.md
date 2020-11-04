@@ -22,8 +22,6 @@ For instance, ‘**logistic model**’ produces scorecards for employees based o
 
 However, the bottom line is to keep it simple enough for HR managers to understand and implement accordingly. Changing the various factors help in assessing the impact of changes and making the right decisions.
 
---- Examplar Capstone project
-
 # Benefits of Predicting Attrition Model
 -   Analysis and assessment of the loss in expertise and skillsets
 -   Minimize cost of new talent acquisition based on the employee profiling and company requirements
@@ -36,4 +34,6 @@ However, the bottom line is to keep it simple enough for HR managers to understa
 Attrition Model helps in not only taking preventive measures but also into making better hiring decisions. 
 
 Deriving trends in the candidate’s performance out of past data is important in order to predict the future trends, as well as to board new employees. Moreover, HR can use the employee data to predict attrition, the possible reasons behind it and can take appropriate measures to prevent it.
+
+---Examplar Capstone project
 
